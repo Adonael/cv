@@ -1,0 +1,183 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+#title{
+    text-align: left;
+}
+
+.colored-section{
+    background-color: #ff4c68;
+    color: white;
+}
+
+.white-section{
+    background-color: white;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.big-heading{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    font-size: 3rem;
+}
+
+.testimonial-text{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+#image{
+    transform: rotate(35deg);
+    position: relative;
+    margin-top:50px;
+    margin-bottom:-180px;
+    
+}
+
+.navbar{
+    padding-bottom: 4.5rem;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+    font-family:"Ubuntu";
+    font-weight: bold;
+}
+
+.nav-item{
+    margin:0 20px 0 20px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+}
+
+.btn{
+    margin:20px 5px 10px;
+}
+
+
+.features-image{
+    color:#efb172;
+    padding: 20px;
+}
+
+.features-image:hover{
+    color:#ff4c66;
+}
+
+
+#features{
+    position: relative;
+    z-index: 1;
+}
+
+.feature-title{
+    font-size: 1.5rem;
+}
+
+.features-row{
+    padding: 80px;
+}
+
+.features-paragraph{
+    color:#8f8f8f;
+}
+
+#testimonials{
+    padding:50px 100px;
+    background-color: #efb172;
+}
+
+.testimonial-text{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+
+.testimonial-image{
+    border-radius: 100%;
+    padding: 20px;
+    width: 10%;
+}
+
+#press{
+    background-color:#efb172;
+    padding-bottom:3%;
+}
+
+.press-logo{
+    width: 15%;
+    margin: 20px 30px;
+}
+
+.carousel-item{
+    padding:50px 100px;
+}
+
+
+#pricing{
+    padding: 100px;
+}
+
+.price-text{
+    line-height: 1.5;
+    font-size: 3rem;
+}
+
+.pricing-column{
+    padding: 2% 3%;
+}
+
+@media (max-width:1028px){
+    #title{
+        text-align: center;
+    }
+
+    #image{
+        position: static;
+        transform: rotate(0);
+        padding-bottom: 250px;
+    }
+}
+
+#cta{
+    padding:30px;
+}
+
+#cta h3{
+    width: 450px;
+    margin:0 auto 0 auto;
+}
+
+#cta button{
+    margin: 30px 15px;
+}
+
+#footer{
+    padding: 30px;
+}
+
+.footer-icon{
+    padding: 15px;
+}
+
+.copyright{
+    color: grey;
+}
+
+
+
+
+
+
+
