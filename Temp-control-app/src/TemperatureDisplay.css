@@ -1,0 +1,33 @@
+#temp {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#card {
+  border-radius: 10%;
+  background-color: black;
+  height: 400px;
+  width: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button{
+  display: block;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+}
+
+.cold{
+  background-color: rgb(66, 67, 130);
+}
+
+.warm{
+  background-color: orange;
+}
