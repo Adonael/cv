@@ -1,0 +1,45 @@
+.questions {
+  background-color: rgb(24, 4, 156);
+  height: 300px;
+  width: 500px;
+  border-radius: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.questionTitle,
+.questionText,
+.answer,
+h2 {
+  color: white;
+}
+
+.refreshButton{
+    height: 50px;
+    width: 100px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+li {
+  list-style: none;
+  border: 1px solid black;
+  border-radius: 25px;
+  width: 150px;
+  margin: 5px;
+  text-align: center;
+}
+
+li:hover {
+  box-shadow: 5px 5px grey;
+}
+
+body {
+  background-color: skyblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
