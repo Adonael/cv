@@ -1,0 +1,17 @@
+.item{
+    list-style: none;
+}
+
+.check{
+    text-decoration: line-through;
+    list-style:none;
+}
+
+.itemList{
+    display: flex;
+    justify-content: center;
+}
+
+li{
+    width: 200px;
+}
