@@ -1,0 +1,9 @@
+.button{
+height: 50px;
+width:50px;
+background-color: lightgrey;
+}
+
+.operator{
+    background-color: orange;
+}

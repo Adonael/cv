@@ -1,0 +1,9 @@
+.input{
+background-color: black;
+height: 50px;
+width: 200px;
+display: flex;
+justify-content: flex-end;
+align-items: center;
+color: white;
+}
