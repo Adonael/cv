@@ -1,0 +1,14 @@
+.contactCard{
+    margin-top:20px;
+    height: 200px;
+    width:500px;
+    background-color: rgb(101, 101, 148);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.contactImage{
+    margin-right: 50px;
+}
