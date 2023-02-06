@@ -1,0 +1,60 @@
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.checked{
+  text-decoration: line-through;
+}
+
+.taskInput{
+  margin-top: 20px;
+}
+
+.tasks{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 1px white solid;
+  height: 30px;
+  margin-top: 20px;
+}
+
+.taskName{
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+}
+
+.taskQuantity{
+  flex:1;
+}
+
+.inputField {
+  position: relative;
+  margin: auto;
+  width: 200px;
+  padding: 20px;
+}
+
+.inputField input{
+    width: 70%;
+    height: 25px;
+    padding-right: 60px;
+}
+
+.addButton {
+  position: absolute;
+  padding: 20px;
+  right: 0;
+  top : 5px;
+  cursor: pointer;
+}
+
+.quantityButton{
+  cursor: pointer;
+}
+
