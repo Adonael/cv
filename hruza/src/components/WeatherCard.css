@@ -1,0 +1,26 @@
+.card{
+    height: 500px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+.Clear{
+    height: 500px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    background-image: url(C:\Users\Ivan\Desktop\react-weather\src\assets\sunny.jfif);
+    background-repeat: no-repeat;
+    background-size: 300px 500px;
+}
+
+.Clouds{
+    height: 500px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    background-image: url(C:\Users\Ivan\Desktop\react-weather\src\assets\clouds.jfif);
+    background-repeat: no-repeat;
+    background-size: 300px 500px;
+}
