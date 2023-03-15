@@ -1,0 +1,23 @@
+.container{
+    width: 960px;
+    min-height: 100vh;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.main{
+    background-color: black;
+}
+
+
+.dark-mode{
+    background-color: black;
+    color:white;
+}
+
+.white{
+    background-color: white;
+    color: black;
+}
